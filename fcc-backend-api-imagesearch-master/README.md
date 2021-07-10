@@ -20,5 +20,5 @@ heroku
 ------
 
 - Setup: https://devcenter.heroku.com/articles/heroku-redis
-- https://pacific-ridge-36713.herokuapp.com/
+
 
